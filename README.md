@@ -1,2 +1,0 @@
-# latin-terms
-Latin terms
